@@ -26,15 +26,15 @@ The relationships between these core projects form a dynamic intellectual ecosys
 ```mermaid
 graph TD
     subgraph Agora-Supercluster
-        A(<b>Agora-Supercluster</b><br><i>The Central Hub</i>)
+        A("<b>Agora-Supercluster</b><br><i>The Central Hub</i>")
     end
     subgraph Core Repositories
-        B[<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation &amp; Metrics (X-CII)</i>]
-        C[<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance &amp; Ethics</i>]
-        D[<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>]
-        E[<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>]
-        F[<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>]
-        G[<a href='https://github.com/torisan-unya/-Amaterasu-Shikou-'>-Amaterasu-Shikou-</a><br><i>Philosophical Reflection</i>]
+        B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation & Metrics (X-CII)</i>"]
+        C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance & Ethics</i>"]
+        D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
+        E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>"]
+        F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>"]
+        G["<a href='https://github.com/torisan-unya/-Amaterasu-Shikou-'>-Amaterasu-Shikou-</a><br><i>Philosophical Reflection</i>"]
     end
     A --- B
     A --- C
