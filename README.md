@@ -17,7 +17,43 @@ In an era where AI reshapes knowledge, creativity, and decision-making, Agora-Su
 - Applying HAC to domains like finance, policy, storytelling, and personal reflection.
 - Fostering ethical, fair, and robust systems through simulations, prompts, and self-evolving architectures.
 
-The projects evolve iteratively, blending fictional explorations (as meta-exercises) with real-world analogs and prototypes. Whether you're an AI researcher, policymaker, creative writer, or curious explorer, start here to navigate the cluster.
+The projects evolve iteratively, blending fictional explorations (as meta-exercises) with real-world analogs and prototypes. **This approach enables rapid, low-cost simulation of academic discourse and conceptual validation before engaging in large-scale empirical studies.** Whether you're an AI researcher, policymaker, creative writer, or curious explorer, start here to navigate the cluster.
+
+### The Agora-Supercluster Cosmos
+
+The relationships between these core projects form a dynamic intellectual ecosystem. The diagram below visualizes this interconnected cosmos, with the central hub providing access to each orbiting repository.
+
+```mermaid
+graph TD
+    subgraph Agora-Supercluster
+        A(<b>Agora-Supercluster</b><br><i>The Central Hub</i>)
+    end
+    subgraph Core Repositories
+        B[<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation & Metrics (X-CII)</i>]
+        C[<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance & Ethics</i>]
+        D[<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>]
+        E[<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>]
+        F[<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>]
+        G[<a href='https://github.com/torisan-unya/-Amaterasu-Shikou-'>-Amaterasu-Shikou-</a><br><i>Philosophical Reflection</i>]
+    end
+    A --- B
+    A --- C
+    A --- D
+    A --- E
+    A --- F
+    A --- G
+    B -- X-CII Metric --> E
+    B -- Evaluation Framework --> C
+    F -- AI Prompts --> D
+    G -- Co-thinking Process --> A
+    C -- Governance Principles --> F
+    D -- Prompt Engineering --> B
+    E -- Self-Evolving Agents --> G
+    classDef hub fill:#f9f,stroke:#333,stroke-width:4px;
+    class A hub;
+    classDef core fill:#ddf,stroke:#333;
+    class B,C,D,E,F,G core;
+```
 
 ### Core Repositories in the Supercluster
 Below is a curated list of the six foundational repositories, each representing a star in this cosmos. They interconnect: for example, X-CII metrics from `awesome-hac-framework` inform evaluations in `GAAF` and `Senate-Thinking`, while prompts from `policy-as-code` enhance creative processes in `The-Heliocentric-Method`.
