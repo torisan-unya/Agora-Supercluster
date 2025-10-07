@@ -29,12 +29,12 @@ graph TD
         A(<b>Agora-Supercluster</b><br><i>The Central Hub</i>)
     end
     subgraph Core Repositories
-        B[awesome-hac-framework<br><i>Evaluation & Metrics (X-CII)</i>]
-        C[Senate-Thinking<br><i>Governance & Ethics</i>]
-        D[The-Heliocentric-Method<br><i>Creative Application</i>]
-        E[GAAF<br><i>Agentic Analysis</i>]
-        F[policy-as-code<br><i>Societal Implementation</i>]
-        G[-Amaterasu-Shikou-<br><i>Philosophical Reflection</i>]
+        B[<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation &amp; Metrics (X-CII)</i>]
+        C[<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance &amp; Ethics</i>]
+        D[<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>]
+        E[<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>]
+        F[<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>]
+        G[<a href='https://github.com/torisan-unya/-Amaterasu-Shikou-'>-Amaterasu-Shikou-</a><br><i>Philosophical Reflection</i>]
     end
     A --- B
     A --- C
@@ -56,7 +56,7 @@ graph TD
 ```
 
 ### Core Repositories in the Supercluster
-Below is a curated list of the six foundational repositories, each representing a star in this cosmos. They interconnect: for example, X-CII metrics from `awesome-hac-framework` inform evaluations in `GAAF` and `Senate-Thinking`, while prompts from `policy-as-code` enhance creative processes in `The-Heliocentric-Method`. (Click the repository names for direct links.)
+Below is a curated list of the six foundational repositories, each representing a star in this cosmos. They interconnect: for example, X-CII metrics from `awesome-hac-framework` inform evaluations in `GAAF` and `Senate-Thinking`, while prompts from `policy-as-code` enhance creative processes in `The-Heliocentric-Method`.
 
 1. **[awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework)**  
    An awesome list curating (fictional) resources for Human-AI Collaborative Intelligence (HAC). Introduces the X-CII metric (Extended Collaborative Intelligence Index) for measuring synergy via Box-Cox aggregation of Quality (Q), Efficiency (E), and Safety (S). Features Monte Carlo simulations (10,000 replicates) for robustness, fairness diagnostics (e.g., EOD L_inf <0.05), and axiomatic properties. Evolves through five stages: theoretical foundations, extensions, validation, formalization, and empirical pilots. Ideal for researchers testing HAC uplift (median Relative X-CII: 107.5% [95% CI: 106.0-109.0%]).  
