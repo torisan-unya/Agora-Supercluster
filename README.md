@@ -71,7 +71,7 @@ Interconnected projects orbiting HAC themes:
 - **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Introspection.
 - **Evolution**: Shared tools (simulations, prompts, ethics).
 - **Future**: Unified HAC platform; empirical pilots (N=500); preprints (e.g., TechRxiv).
-- **Analogs**: HAIC (arXiv:2407.19098v4), Semantic Entropy (Nature 2024).
+- **Analogs**: Evaluating Human-AI Collaboration: A Review and Methodological Framework (arXiv:2407.19098v2, 2025: proposes decision tree for metrics in AI-Centric, Human-Centric, Symbiotic modes); Human-Centered Human-AI Collaboration (HCHAC) (arXiv:2505.22477, 2025: emphasizes human-machine relationships); Detecting hallucinations in large language models using semantic entropy (Nature, 2024; DOI: 10.1038/s41586-024-07421-0: entropy-based uncertainty for hallucination detection, AUROC ~0.75-0.85); A Unified Framework for Human AI Collaboration in Security (arXiv:2505.23397, 2025: integrates autonomy, trust, human-in-the-loop); When combinations of humans and AI are useful: A systematic review and meta-analysis (arXiv:2405.06087v2, 2024: meta-analysis of 100+ studies on human-AI synergy factors). *Updated additions*: Collaborating with AI Agents: A Field Experiment on Teamwork (arXiv:2503.18238v2, 2025: explores productivity in AI-human teams); Human-generative AI collaboration enhances task performance but undermines human’s intrinsic motivation (Scientific Reports, 2025: dual effects on performance and motivation); A Survey on Human-AI Collaboration with Large Foundation Models (arXiv:2403.04931v4, 2025: overview of multimodal and preference-based synergies).
 
 Seeking co-creators for AI-human symbiosis.
 
@@ -79,7 +79,7 @@ Seeking co-creators for AI-human symbiosis.
 1. Clone this repo.
 2. Explore linked repos.
 3. Contribute via issues/PRs.
-4. Tools: Python; AI models (Grok, Claude).
+4. Tools: Python; AI models (Grok, Gemini, ChatGPT, Claude).
 5. Follow [@torisan_unya](https://x.com/torisan_unya).
 
 ### License
@@ -89,3 +89,4 @@ CC BY-SA 4.0. Attribute to Torisan Unya.
 Human-AI collaboration with Grok, Gemini, ChatGPT, Claude. Thanks to open-source and historical inspirations.
 
 *Last Updated: October 08, 2025*
+
