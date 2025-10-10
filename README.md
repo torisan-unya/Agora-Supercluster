@@ -95,7 +95,7 @@ You are granted the right to use this software under the terms of the MIT Licens
 
 ### To Our Contributors
 
-Thank you for considering a contribution! Please be aware that by submitting any contribution (such as a pull request), you are explicitly agreeing to the terms of the entire license agreement, including the patent grant outlined in `PATENT_LICENSE_ADDENDUM.md`. This is a crucial measure to protect the project, its community, and its future.
+Thank you for considering a contribution! Please be aware that by submitting any contribution (such as a pull request), you are explicitly agreeing to the terms of the entire license agreement, including the patent grant outlined in **[`PATENT_LICENSE_ADDENDUM.md`](PATENT_LICENSE_ADDENDUM.md)**. This is a crucial measure to protect the project, its community, and its future.
 
 
 ### Acknowledgments
