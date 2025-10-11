@@ -27,10 +27,3 @@ If you institute patent litigation against any entity (including a cross-claim o
 This grant of patent rights is not an assurance that this project is free from patent infringement. This is not legal advice. You should consult with your own legal counsel for any questions regarding patents or other intellectual property.
 
 This document is governed by the "Governing Law and Jurisdiction" clause set forth in the [`LICENSE.md`](LICENSE.md) file.
-
-## 4. Disclaimer
-
-This grant of patent rights is not an assurance that this project is free from patent infringement. This is not legal advice. You should consult with your own legal counsel for any questions regarding patents or other intellectual property.
-
-This document is governed by the "Governing Law and Jurisdiction" clause set forth in the `LICENSE.md` file.
-
