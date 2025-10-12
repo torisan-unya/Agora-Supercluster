@@ -2,11 +2,10 @@
 
 ## A Cosmos for AI-Human Co-creation
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 Welcome to **Agora-Supercluster**, the central hub for repositories advancing Human-AI Collaboration (HAC). Inspired by the ancient Agora, this ecosystem aggregates frameworks, tools, and philosophies for ethical, adaptive AI-human synergies.
 
-Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). All content is under CC BY-SA 4.0, promoting open adaptation.
+Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). 
+Licensed under **MIT + Patent License Addendum** (see [License](#license)).
 
 ### Vision and Purpose
 Agora-Supercluster positions humans as the central "sun" in AI collaborations, with AI in supportive orbits. It addresses HAC challenges through metrics (e.g., X-CII), governance, and applications in finance, policy, and creativity. Projects leverage simulations for validation, blending conceptual fiction with real-world analogs.
