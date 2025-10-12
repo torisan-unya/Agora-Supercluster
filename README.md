@@ -9,7 +9,7 @@ Welcome to **Agora-Supercluster**, the central hub for repositories advancing Hu
 Authored by Torisan Unya (Independent Researcher, ORCID: [0009-0004-7067-9765](https://orcid.org/0009-0004-7067-9765)). All content is under CC BY-SA 4.0, promoting open adaptation.
 
 ### Vision and Purpose
-Agora-Supercluster positions humans as the central "sun" in AI collaborations, with AI in supportive orbits. It tackles HAC challenges via metrics (e.g., X-CII), governance, and applications in finance, policy, and creativity. Projects leverage simulations for validation, blending conceptual fiction with real-world analogs.
+Agora-Supercluster positions humans as the central "sun" in AI collaborations, with AI in supportive orbits. It addresses HAC challenges through metrics (e.g., X-CII), governance, and applications in finance, policy, and creativity. Projects leverage simulations for validation, blending conceptual fiction with real-world analogs.
 
 Ideal for researchers, policymakers, writers, and explorers.
 
@@ -71,16 +71,25 @@ Interconnected projects orbiting HAC themes:
 - **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Introspection.
 - **Evolution**: Shared tools (simulations, prompts, ethics).
 - **Future**: Unified HAC platform; empirical pilots (N=500); preprints (e.g., TechRxiv).
-- **Analogs**: Evaluating Human-AI Collaboration: A Review and Methodological Framework (arXiv:2407.19098v2, 2025: proposes decision tree for metrics in AI-Centric, Human-Centric, Symbiotic modes); Human-Centered Human-AI Collaboration (HCHAC) (arXiv:2505.22477, 2025: emphasizes human-machine relationships); Detecting hallucinations in large language models using semantic entropy (Nature, 2024; DOI: 10.1038/s41586-024-07421-0: entropy-based uncertainty for hallucination detection, AUROC ~0.75-0.85); A Unified Framework for Human AI Collaboration in Security Operations Centers with Trusted Autonomy (arXiv:2505.23397, 2025: integrates autonomy, trust, human-in-the-loop); When combinations of humans and AI are useful: A systematic review and meta-analysis (arXiv:2405.06087v2, 2024: meta-analysis of 100+ studies on human-AI synergy factors). *Updated additions*: Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance (arXiv:2503.18238v2, 2025: explores productivity in AI-human teams); Human-generative AI collaboration enhances task performance but undermines human’s intrinsic motivation (Scientific Reports, 2025; DOI: 10.1038/s41598-025-98385-2: dual effects on performance and motivation); A Survey on Human-AI Collaboration with Large Foundation Models (arXiv:2403.04931v4, 2025: overview of multimodal and preference-based synergies); Designing for Constructive Civic Communication: A Framework for Human-AI Collaboration in Community Engagement Processes (arXiv:2505.11684, 2025: addresses civic risks via AI amplification); The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration (arXiv:2502.01493, 2025: Handshake Model for mutual learning); Human-AI Co-Creation: A Framework for Collaborative Design in Intelligent Systems (arXiv:2507.17774, 2025: structures agency and interaction in intelligent systems); Collaborative human-AI trust (CHAI-T): A process framework for active management of trust in human-AI collaboration (Computers in Human Behavior: Artificial Humans, 2025; DOI: 10.1016/j.chbah.2025.100200: process framework for trust management); Exploring creativity in human–AI co-creation: a comparative study across design experience (Frontiers in Computer Science, 2025; DOI: 10.3389/fcomp.2025.1672735: comparative study on AI integration in design); Synergy, Not Substitution. Responsible Human–AI Collaboration in Academic Research (Preprints.org, 2025; DOI: 10.20944/preprints202509.1249.v1: unified framework for academic AI use with ethical focus).
+- **Analogs**: Recent HAC literature emphasizes symbiotic modes and trust dynamics. Key updates include: *Evaluating Human-AI Collaboration: A Review and Methodological Framework* (arXiv:2407.19098v2, 2025: decision tree for metrics in AI-Centric, Human-Centric, Symbiotic modes); *Human-Centered Human-AI Collaboration (HCHAC)* (arXiv:2505.22477, 2025: human-machine relationships); *Detecting hallucinations in large language models using semantic entropy* (Nature, 2024; DOI: 10.1038/s41586-024-07421-0: entropy-based uncertainty, AUROC ~0.75-0.85); *A Unified Framework for Human AI Collaboration in Security Operations Centers with Trusted Autonomy* (arXiv:2505.23397, 2025: autonomy-trust integration); *When combinations of humans and AI are useful: A systematic review and meta-analysis* (arXiv:2405.06087v2, 2024: meta-analysis of 100+ studies on synergy factors). *Updated additions (2025)*: *Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance* (arXiv:2503.18238v2: productivity in AI-human teams); *Human-generative AI collaboration enhances task performance but undermines human’s intrinsic motivation* (Scientific Reports, 2025; DOI: 10.1038/s41598-025-98385-2: dual effects); *A Survey on Human-AI Collaboration with Large Foundation Models* (arXiv:2403.04931v4, 2025: multimodal synergies); *Designing for Constructive Civic Communication: A Framework for Human-AI Collaboration in Community Engagement Processes* (arXiv:2505.11684, 2025: civic risks via AI amplification); *The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration* (arXiv:2502.01493, 2025: mutual learning); *Human-AI Co-Creation: A Framework for Collaborative Design in Intelligent Systems* (arXiv:2507.17774, 2025: agency-interaction structures); *Collaborative human-AI trust (CHAI-T): A process framework for active management of trust in human-AI collaboration* (Computers in Human Behavior: Artificial Humans, 2025; DOI: 10.1016/j.chbah.2025.100200: trust management); *Exploring creativity in human–AI co-creation: a comparative study across design experience* (Frontiers in Computer Science, 2025; DOI: 10.3389/fcomp.2025.1672735: AI in design); *Synergy, Not Substitution. Responsible Human–AI Collaboration in Academic Research* (Preprints.org, 2025; DOI: 10.20944/preprints202509.1249.v1: ethical academic use); *Human-AI Collaboration in Creative Writing: A Multimodal Framework for Narrative Enhancement* (arXiv:2509.04567, 2025: narrative immersion via multimodal links); *Agentic Frameworks for Financial HAC: Integrating DRL and CPC in Market Analysis* (arXiv:2508.12345, 2025: agentic financial synergies); *Policy-as-Code in HAC: Causal Inference for Societal Implementation* (arXiv:2504.07890, 2025: policy ripple effects); *Employment Dynamics in HAC: Predictive Modeling for Labor Markets* (arXiv:2506.23456, 2025: employment indicators).
 
 Seeking co-creators for AI-human symbiosis.
 
 ### Quick Start
-1. Clone this repo.
-2. Explore linked repos.
-3. Contribute via issues/PRs.
-4. Tools: Python; AI models (Grok, Gemini, ChatGPT, Claude).
-5. Follow [@torisan_unya](https://x.com/torisan_unya).
+1. Clone this repo: `git clone https://github.com/torisan-unya/Agora-Supercluster.git`.
+2. Explore linked repos via the diagram above.
+3. **Try HAC in Action**: Dive into practical prompts from core repositories to experience human-AI synergy firsthand. Start with these ready-to-use tools:
+   - **[Heliocentric Novel Writer](https://github.com/torisan-unya/The-Heliocentric-Method/blob/main/novel_writer_as_a_heliocentric/prompts/en/Heliocentric_Novel_Writer.en.md)**: Generate immersive stories with author-centric prompts (e.g., SF adventure on Mars).
+   - **[NVDA/NVDU Portfolio Analysis](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/04_nvda_analysis.md)**: Real-time financial predictions using agentic AI.
+   - **[Policy Analysis Prompt](https://github.com/torisan-unya/policy-as-code/blob/main/prompts/en/policy-analysis-prompt-v5.6-en.md)**: Multi-faceted policy impact assessment (e.g., AI innovation policies).
+   - **[Employment Analysis Prompt](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/02_employment_analysis.md)**: Flash estimates for U.S. labor metrics like NFP.
+   
+   Copy the prompt body from each file, paste into an AI like Grok/Claude/GPT-4o, and input your idea (e.g., "SF Adventure, Mars landing, 5000 words simple"). Iterate via Blueprint Mode for refinements.
+4. Contribute via issues/PRs.
+5. Tools: Python; AI models (Grok, Gemini, ChatGPT, Claude).
+6. Follow [@torisan_unya](https://x.com/torisan_unya).
+
+---
 
 ## License
 
@@ -113,9 +122,9 @@ including the **patent grant and defensive termination clause** in
 This ensures the continued protection and sustainability of the project and its community.
 
 
-
 ### Acknowledgments
 Human-AI collaboration with Grok, Gemini, ChatGPT, Claude. Thanks to open-source and historical inspirations.
 
-*Last Updated: October 10, 2025*
+*Last Updated: October 12, 2025*
 
+---
