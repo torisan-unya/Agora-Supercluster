@@ -22,8 +22,8 @@ graph TD
     B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation & Metrics (X-CII)</i>"]
     C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance & Ethics</i>"]
     D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
-    E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Specialist's Toolkit</i>"]
-    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Agentic Analysis</i>"]
+    E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>"]
+    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>"]
     H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Strategic Command Center</i>"]
     A --- B & C & D & E & F & H
     B -- X-CII --> E
