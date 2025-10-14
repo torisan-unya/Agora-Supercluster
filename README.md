@@ -41,29 +41,33 @@ graph TD
 ### Core Repositories
 Interconnected projects orbiting HAC themes:
 
+### Core Repositories
+These interconnected projects form a narrative arc from evaluation and governance to application and synthesis.
+
 1. **[awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework)**  
-   Curates HAC resources; introduces X-CII metric (Box-Cox aggregation of Q, E, S). Monte Carlo simulations (10,000 reps) yield median Relative X-CII: 107.5% [95% CI: 106.0-109.0%].  
+   **Foundation & Evaluation:** Curates HAC resources and introduces the X-CII metric to measure synergistic quality. Monte Carlo simulations validate its effectiveness, establishing a baseline for trustworthy collaboration.  
    *Keywords: Synergistic Evaluation, Fairness Metrics.*
 
 2. **[Senate-Thinking](https://github.com/torisan-unya/Senate-Thinking)**  
-   Framework for AI governance via historical analogies (Roman Senate, Haudenosaunee). Proposes principles: Selection, Weighting, Oversight, Exclusion; ASC-MM model.  
+   **Governance & Ethics:** Provides a framework for AI governance using historical analogies. It sets the ethical principles (Selection, Weighting, Oversight) that guide the entire ecosystem.  
    *Keywords: AI Governance, Knowledge Integration.*
 
 3. **[The-Heliocentric-Method](https://github.com/torisan-unya/The-Heliocentric-Method)**  
-   Author-centered AI storytelling; shifts from AI-centric to human-vision as "sun." Includes prompts for novel writing.  
+   **Application in Creativity:** Applies the HAC philosophy to storytelling, positioning the human author as the creative "sun." It serves as a practical example of human-led co-creation.  
    *Keywords: AI Storytelling, Prompt Engineering.*
 
 4. **[GAAF](https://github.com/torisan-unya/GAAF)**  
-   Self-evolving AI agents for financial analysis. Hierarchical architecture (CPC, ANN, GAN-DRL); applied to PCE, CPI, NVDA.  
+   **Application in Analysis:** Deploys self-evolving AI agents for complex financial analysis. This demonstrates a specialized, high-stakes application of agentic AI within the governed framework.  
    *Keywords: Agentic AI, Financial Reasoning.*
 
 5. **[policy-as-code](https://github.com/torisan-unya/policy-as-code)**  
-   Treats policies as code (Git-managed). AI prompts for analysis (e.g., aging population); promotes transparency via PRs.  
+   **Application in Society:** Treats public policy as code to analyze societal impacts with AI. This project extends HAC principles to real-world, large-scale decision-making.  
    *Keywords: Policy Engineering, AI Prompts.*
 
 6. **[DRACO](https://github.com/torisan-unya/DRACO)**  
-   Deploys a team of AI agents to synthesize vast information into clear, reliable insights for critical decision support. Integrates advanced techniques (CPC, ANN) in two versions: one safety-focused (X-II) and one for dynamic analysis (GAAF).  
+   **Synthesis & Decision Support:** The capstone framework that deploys an agent team to synthesize vast information from all domains into clear, reliable insights, enabling critical and responsible decision-making.  
    *Keywords: Decision Support, Agentic Synthesis, Predictive Coding.*
+
 
 ### Interconnections and Roadmap
 - **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Synthesis.
