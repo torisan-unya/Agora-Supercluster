@@ -62,8 +62,8 @@ Interconnected projects orbiting HAC themes:
    *Keywords: Policy Engineering, AI Prompts.*
 
 6. **[DRACO](https://github.com/torisan-unya/DRACO)**  
-   Draco AgentTech Synthesis Framework: Versatile agentic AI architecture for real-time analysis, decision support, and synthesis in domains like finance, policy, and creativity. Integrates CPC, ANN, and human-AI collaboration in two versions (X-CII safety-focused; GAAF dynamic).  
-   *Keywords: Agentic Synthesis, Predictive Coding, Multilingual Fidelity.*
+   Deploys a team of AI agents to synthesize vast information into clear, reliable insights for critical decision support. Integrates advanced techniques (CPC, ANN) in two versions: one safety-focused (X-II) and one for dynamic analysis (GAAF).  
+   *Keywords: Decision Support, Agentic Synthesis, Predictive Coding.*
 
 ### Interconnections and Roadmap
 - **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Synthesis.
