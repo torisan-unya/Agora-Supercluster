@@ -36,7 +36,7 @@ graph TD
     class A hub;
     classDef core fill:#ddf,stroke:#333;
     class B,C,D,E,F,H core;
-```
+
 ```
 ### Core Repositories
 
