@@ -24,7 +24,7 @@ graph TD
     D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
     E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>"]
     F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>"]
-    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Strategic Command Center</i>"]
+    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Intelligence Synthesis</i>"]
     A --- B & C & D & E & F & H
     B -- X-CII --> E
     B -- Framework --> C
@@ -63,7 +63,7 @@ These interconnected projects tell a story, moving from foundational principles 
     *Keywords: Policy Engineering, AI Prompts.*
 
 6.  **[DRACO](https://github.com/torisan-unya/DRACO)**  
-    **Strategic Command Center:** As the capstone of the ecosystem, DRACO acts as the ultimate decision-support system. It deploys a team of specialized agents to synthesize vast, conflicting information from all other domains into clear, reliable intelligence, empowering the human to make critical decisions with confidence and responsibility.  
+    **Strategic Command Center（Intelligence Synthesis）:** As the capstone of the ecosystem, DRACO acts as the ultimate decision-support system. It deploys a team of specialized agents to synthesize vast, conflicting information from all other domains into clear, reliable intelligence, empowering the human to make critical decisions with confidence and responsibility.  
     *Keywords: Decision Support, Agentic Synthesis, Predictive Coding.*
 
 ### Interconnections and Roadmap
