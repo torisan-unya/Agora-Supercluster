@@ -24,7 +24,7 @@ graph TD
     D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>The Artist's Studio</i>"]
     E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>The Specialist's Toolkit</i>"]
     F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>The Societal Simulator</i>"]
-    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>The Strategic Command Center</i>"]
+    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Strategic Command Center</i>"]
     A --- B & C & D & E & F & H
     B -- X-CII --> E
     B -- Framework --> C
