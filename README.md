@@ -19,11 +19,11 @@ The diagram illustrates interconnections among core repositories.
 ```mermaid
 graph TD
     A("<b>Agora-Supercluster</b><br><i>Central Hub</i>")
-    B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Compass & Ruler</i>"]
-    C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Ethical Compass</i>"]
-    D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Artist's Studio</i>"]
+    B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation & Metrics (X-CII)</i>"]
+    C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance & Ethics</i>"]
+    D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
     E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Specialist's Toolkit</i>"]
-    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Simulator</i>"]
+    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Agentic Analysis</i>"]
     H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Strategic Command Center</i>"]
     A --- B & C & D & E & F & H
     B -- X-CII --> E
@@ -43,23 +43,23 @@ graph TD
 These interconnected projects tell a story, moving from foundational principles to real-world synthesis. Each repository plays a distinct role in the journey toward true AI-Human Co-creation.
 
 1.  **[awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework)**  
-    **Compass & Ruler:** This is the foundation, defining what "good" collaboration looks like. It introduces the **X-CII metric** as the standard for measuring synergistic quality, ensuring every interaction is meaningful and fair.  
+    **Compass & Ruler（Evaluation & Metrics (X-CII)）:** This is the foundation, defining what "good" collaboration looks like. It introduces the **X-CII metric** as the standard for measuring synergistic quality, ensuring every interaction is meaningful and fair.  
     *Keywords: Synergistic Evaluation, Fairness Metrics.*
 
 2.  **[Senate-Thinking](https://github.com/torisan-unya/Senate-Thinking)**  
-    **Ethical Compass:** This repository provides the soul and conscience of the ecosystem. Drawing from historical wisdom, it establishes the core ethical principles (Selection, Weighting, Oversight) that ensure AI remains a supportive and responsible partner.  
+    **Ethical Compass（Governance & Ethics）:** This repository provides the soul and conscience of the ecosystem. Drawing from historical wisdom, it establishes the core ethical principles (Selection, Weighting, Oversight) that ensure AI remains a supportive and responsible partner.  
     *Keywords: AI Governance, Knowledge Integration.*
 
 3.  **[The-Heliocentric-Method](https://github.com/torisan-unya/The-Heliocentric-Method)**  
-    **Artist's Studio:** This is where the philosophy becomes practice. It applies the human-centric model to the creative process of storytelling, positioning the human author as the undeniable "sun" around which AI tools orbit. It’s a tangible demonstration of human-led co-creation.  
+    **Artist's Studio（Creative Application）:** This is where the philosophy becomes practice. It applies the human-centric model to the creative process of storytelling, positioning the human author as the undeniable "sun" around which AI tools orbit. It’s a tangible demonstration of human-led co-creation.  
     *Keywords: AI Storytelling, Prompt Engineering.*
 
 4.  **[GAAF](https://github.com/torisan-unya/GAAF)**  
-    **Specialist's Toolkit:** Moving from creativity to high-stakes analysis, GAAF deploys autonomous AI agents to tackle complex financial markets. It serves as the testbed for applying the ecosystem's governance principles in a volatile, real-world domain.  
+    **Specialist's Toolkit（Agentic Analysis）:** Moving from creativity to high-stakes analysis, GAAF deploys autonomous AI agents to tackle complex financial markets. It serves as the testbed for applying the ecosystem's governance principles in a volatile, real-world domain.  
     *Keywords: Agentic AI, Financial Reasoning.*
 
 5.  **[policy-as-code](https://github.com/torisan-unya/policy-as-code)**  
-    **Societal Simulator:** This project scales the vision to a societal level. By treating public policy as "code," it uses AI to simulate and analyze the potential impacts of decisions on a massive scale, extending the principles of responsible collaboration to governance itself.  
+    **Societal Simulator（Societal Implementation）:** This project scales the vision to a societal level. By treating public policy as "code," it uses AI to simulate and analyze the potential impacts of decisions on a massive scale, extending the principles of responsible collaboration to governance itself.  
     *Keywords: Policy Engineering, AI Prompts.*
 
 6.  **[DRACO](https://github.com/torisan-unya/DRACO)**  
