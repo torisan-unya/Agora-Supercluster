@@ -24,19 +24,18 @@ graph TD
     D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
     E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>"]
     F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>"]
-    G["<a href='https://github.com/torisan-unya/-Amaterasu-Shikou-'>-Amaterasu-Shikou-</a><br><i>Philosophical Reflection</i>"]
-    A --- B & C & D & E & F & G
+    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Synthesis Framework</i>"]
+    A --- B & C & D & E & F & H
     B -- X-CII --> E
     B -- Framework --> C
     F -- Prompts --> D
-    G -- Process --> A
     C -- Principles --> F
     D -- Engineering --> B
-    E -- Agents --> G
+    E -- Agents --> H
     classDef hub fill:#f9f,stroke:#333,stroke-width:4px;
     class A hub;
     classDef core fill:#ddf,stroke:#333;
-    class B,C,D,E,F,G core;
+    class B,C,D,E,F,H core;
 ```
 
 ### Core Repositories
@@ -62,12 +61,12 @@ Interconnected projects orbiting HAC themes:
    Treats policies as code (Git-managed). AI prompts for analysis (e.g., aging population); promotes transparency via PRs.  
    *Keywords: Policy Engineering, AI Prompts.*
 
-6. **[-Amaterasu-Shikou-](https://github.com/torisan-unya/-Amaterasu-Shikou-)**  
-   Archive of human-AI co-thinking; records processes, failures. Structured: Foundation, Process, Cultivation.  
-   *Keywords: Thought Records, AI Partnership.*
+6. **[DRACO](https://github.com/torisan-unya/DRACO)**  
+   Draco AgentTech Synthesis Framework: Versatile agentic AI architecture for real-time analysis, decision support, and synthesis in domains like finance, policy, and creativity. Integrates CPC, ANN, and human-AI collaboration in two versions (X-CII safety-focused; GAAF dynamic).  
+   *Keywords: Agentic Synthesis, Predictive Coding, Multilingual Fidelity.*
 
 ### Interconnections and Roadmap
-- **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Introspection.
+- **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Synthesis.
 - **Evolution**: Shared tools (simulations, prompts, ethics).
 - **Future**: Unified HAC platform; empirical pilots (N=500); preprints (e.g., TechRxiv).
 - **Analogs**: Recent HAC literature emphasizes symbiotic modes and trust dynamics. Key updates include: *Evaluating Human-AI Collaboration: A Review and Methodological Framework* (arXiv:2407.19098v2 [cs.HC], 2025: decision tree for metrics in AI-Centric, Human-Centric, Symbiotic modes); *Human-Centered Human-AI Collaboration (HCHAC)* (arXiv:2505.22477 [cs.HC], 2025: human-machine relationships); *Detecting hallucinations in large language models using semantic entropy* (Nature, 630(8017), 625-630, 2024; DOI: 10.1038/s41586-024-07421-0: entropy-based uncertainty, AUROC ~0.75-0.85); *A Unified Framework for Human AI Collaboration in Security Operations Centers with Trusted Autonomy* (arXiv:2505.23397 [cs.CY], 2025: autonomy-trust integration); *When combinations of humans and AI are useful: A systematic review and meta-analysis* (arXiv:2405.06087v2 [cs.HC], 2024: meta-analysis of 100+ studies on synergy factors). *Updated additions (2025)*: *Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance* (arXiv:2503.18238v2 [cs.HC]: productivity in AI-human teams); *Human-generative AI collaboration enhances task performance but undermines human’s intrinsic motivation* (Scientific Reports, 2025; DOI: 10.1038/s41598-025-98385-2: dual effects); *A Survey on Human-AI Collaboration with Large Foundation Models* (arXiv:2403.04931v4 [cs.LG], 2025: multimodal synergies); *Designing for Constructive Civic Communication: A Framework for Human-AI Collaboration in Community Engagement Processes* (arXiv:2505.11684 [cs.HC], 2025: civic risks via AI amplification); *The Human-AI Handshake Framework: A Bidirectional Approach to Human-AI Collaboration* (arXiv:2502.01493 [cs.HC], 2025: mutual learning); *Human-AI Co-Creation: A Framework for Collaborative Design in Intelligent Systems* (arXiv:2507.17774 [cs.HC], 2025: agency-interaction structures); *Collaborative human-AI trust (CHAI-T): A process framework for active management of trust in human-AI collaboration* (Computers in Human Behavior: Artificial Humans, 2025; DOI: 10.1016/j.chbah.2025.100200: trust management); *Exploring creativity in human–AI co-creation: a comparative study across design experience* (Frontiers in Computer Science, 2025; DOI: 10.3389/fcomp.2025.1672735: AI in design); *Synergy, Not Substitution. Responsible Human–AI Collaboration in Academic Research* (Preprints.org, 2025; DOI: 10.20944/preprints202509.1249.v1: ethical academic use); *Human-AI Collaboration in Creative Writing: A Multimodal Framework for Narrative Enhancement* (arXiv:2509.04567 [cs.CL], 2025: narrative immersion via multimodal links); *Agentic Frameworks for Financial HAC: Integrating DRL and CPC in Market Analysis* (arXiv:2508.12345 [q-fin.CP], 2025: agentic financial synergies); *Policy-as-Code in HAC: Causal Inference for Societal Implementation* (arXiv:2504.07890 [cs.CY], 2025: policy ripple effects); *Employment Dynamics in HAC: Predictive Modeling for Labor Markets* (arXiv:2506.23456 [econ.GN], 2025: employment indicators).
@@ -82,6 +81,8 @@ Seeking co-creators for AI-human symbiosis.
    - **[NVDA/NVDU Portfolio Analysis](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/04_nvda_analysis.md)**: Real-time financial predictions using agentic AI.
    - **[Policy Analysis Prompt](https://github.com/torisan-unya/policy-as-code/blob/main/prompts/en/policy-analysis-prompt-v5.6-en.md)**: Multi-faceted policy impact assessment (e.g., AI innovation policies).
    - **[Employment Analysis Prompt](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/02_employment_analysis.md)**: Flash estimates for U.S. labor metrics like NFP.
+   - **[Draco with X-CII](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-x-cii-en.md)**: Safety-focused multilingual analysis with Expected Loss metrics (e.g., policy impacts on trade).
+   - **[Draco with GAAF](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-gaaf-en.md)**: Dynamic agentic synthesis for general domains (e.g., AI effects on employment).
    
    Copy the prompt body from each file, paste into an AI like Grok/Claude/GPT-4o, and input your idea (e.g., "SF Adventure, Mars landing, 5000 words simple"). Iterate via Blueprint Mode for refinements.
 4. **Explore Theoretical Foundations**: For deeper dives, use these curated entry points:
@@ -93,7 +94,6 @@ Seeking co-creators for AI-human symbiosis.
 7. Follow [@torisan_unya](https://x.com/torisan_unya).
 
 ---
-
 ## License
 
 This project uses a **dual license structure (MIT + Patent License Addendum)** to ensure both openness and legal clarity for all users and contributors.  
@@ -128,6 +128,6 @@ This ensures the continued protection and sustainability of the project and its 
 ### Acknowledgments
 Human-AI collaboration with Grok, Gemini, ChatGPT, Claude. Thanks to open-source and historical inspirations.
 
-*Last Updated: October 12, 2025*
+*Last Updated: October 15, 2025*
 
 ---
