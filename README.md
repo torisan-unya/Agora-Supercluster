@@ -17,14 +17,22 @@ Ideal for researchers, policymakers, writers, and explorers.
 The diagram illustrates interconnections among core repositories.
 
 ```mermaid
+はい、承知いたしました。
+`Core Repositories`セクションの改定内容に合わせて、Mermaid図の各リポジトリの役割表記を修正しました。
+
+これにより、テキストの説明と図の表現が完全に一致し、プロジェクト全体の物語性が視覚的にも強化されます。
+
+---
+
+```mermaid
 graph TD
     A("<b>Agora-Supercluster</b><br><i>Central Hub</i>")
-    B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>Evaluation & Metrics (X-CII)</i>"]
-    C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>Governance & Ethics</i>"]
-    D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>Creative Application</i>"]
-    E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>Agentic Analysis</i>"]
-    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>Societal Implementation</i>"]
-    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>Synthesis & Decision Support:</i>"]
+    B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>The Compass & Ruler</i>"]
+    C["<a href='https://github.com/torisan-unya/Senate-Thinking'>Senate-Thinking</a><br><i>The Ethical Compass</i>"]
+    D["<a href='https://github.com/torisan-unya/The-Heliocentric-Method'>The-Heliocentric-Method</a><br><i>The Artist's Studio</i>"]
+    E["<a href='https://github.com/torisan-unya/GAAF'>GAAF</a><br><i>The Specialist's Toolkit</i>"]
+    F["<a href='https://github.com/torisan-unya/policy-as-code'>policy-as-code</a><br><i>The Societal Simulator</i>"]
+    H["<a href='https://github.com/torisan-unya/DRACO'>DRACO</a><br><i>The Strategic Command Center</i>"]
     A --- B & C & D & E & F & H
     B -- X-CII --> E
     B -- Framework --> C
@@ -37,37 +45,34 @@ graph TD
     classDef core fill:#ddf,stroke:#333;
     class B,C,D,E,F,H core;
 ```
-
+```
 ### Core Repositories
-Interconnected projects orbiting HAC themes:
 
-### Core Repositories
-These interconnected projects form a narrative arc from evaluation and governance to application and synthesis.
+These interconnected projects tell a story, moving from foundational principles to real-world synthesis. Each repository plays a distinct role in the journey toward true AI-Human Co-creation.
 
-1. **[awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework)**  
-   **Foundation & Evaluation:** Curates HAC resources and introduces the X-CII metric to measure synergistic quality. Monte Carlo simulations validate its effectiveness, establishing a baseline for trustworthy collaboration.  
-   *Keywords: Synergistic Evaluation, Fairness Metrics.*
+1.  **[awesome-hac-framework](https://github.com/torisan-unya/awesome-hac-framework)**  
+    **The Compass & Ruler:** This is the foundation, defining what "good" collaboration looks like. It introduces the **X-CII metric** as the standard for measuring synergistic quality, ensuring every interaction is meaningful and fair.  
+    *Keywords: Synergistic Evaluation, Fairness Metrics.*
 
-2. **[Senate-Thinking](https://github.com/torisan-unya/Senate-Thinking)**  
-   **Governance & Ethics:** Provides a framework for AI governance using historical analogies. It sets the ethical principles (Selection, Weighting, Oversight) that guide the entire ecosystem.  
-   *Keywords: AI Governance, Knowledge Integration.*
+2.  **[Senate-Thinking](https://github.com/torisan-unya/Senate-Thinking)**  
+    **The Ethical Compass:** This repository provides the soul and conscience of the ecosystem. Drawing from historical wisdom, it establishes the core ethical principles (Selection, Weighting, Oversight) that ensure AI remains a supportive and responsible partner.  
+    *Keywords: AI Governance, Knowledge Integration.*
 
-3. **[The-Heliocentric-Method](https://github.com/torisan-unya/The-Heliocentric-Method)**  
-   **Application in Creativity:** Applies the HAC philosophy to storytelling, positioning the human author as the creative "sun." It serves as a practical example of human-led co-creation.  
-   *Keywords: AI Storytelling, Prompt Engineering.*
+3.  **[The-Heliocentric-Method](https://github.com/torisan-unya/The-Heliocentric-Method)**  
+    **The Artist's Studio:** This is where the philosophy becomes practice. It applies the human-centric model to the creative process of storytelling, positioning the human author as the undeniable "sun" around which AI tools orbit. It’s a tangible demonstration of human-led co-creation.  
+    *Keywords: AI Storytelling, Prompt Engineering.*
 
-4. **[GAAF](https://github.com/torisan-unya/GAAF)**  
-   **Application in Analysis:** Deploys self-evolving AI agents for complex financial analysis. This demonstrates a specialized, high-stakes application of agentic AI within the governed framework.  
-   *Keywords: Agentic AI, Financial Reasoning.*
+4.  **[GAAF](https://github.com/torisan-unya/GAAF)**  
+    **The Specialist's Toolkit:** Moving from creativity to high-stakes analysis, GAAF deploys autonomous AI agents to tackle complex financial markets. It serves as the testbed for applying the ecosystem's governance principles in a volatile, real-world domain.  
+    *Keywords: Agentic AI, Financial Reasoning.*
 
-5. **[policy-as-code](https://github.com/torisan-unya/policy-as-code)**  
-   **Application in Society:** Treats public policy as code to analyze societal impacts with AI. This project extends HAC principles to real-world, large-scale decision-making.  
-   *Keywords: Policy Engineering, AI Prompts.*
+5.  **[policy-as-code](https://github.com/torisan-unya/policy-as-code)**  
+    **The Societal Simulator:** This project scales the vision to a societal level. By treating public policy as "code," it uses AI to simulate and analyze the potential impacts of decisions on a massive scale, extending the principles of responsible collaboration to governance itself.  
+    *Keywords: Policy Engineering, AI Prompts.*
 
-6. **[DRACO](https://github.com/torisan-unya/DRACO)**  
-   **Synthesis & Decision Support:** The capstone framework that deploys an agent team to synthesize vast information from all domains into clear, reliable insights, enabling critical and responsible decision-making.  
-   *Keywords: Decision Support, Agentic Synthesis, Predictive Coding.*
-
+6.  **[DRACO](https://github.com/torisan-unya/DRACO)**  
+    **The Strategic Command Center:** As the capstone of the ecosystem, DRACO acts as the ultimate decision-support system. It deploys a team of specialized agents to synthesize vast, conflicting information from all other domains into clear, reliable intelligence, empowering the human to make critical decisions with confidence and responsibility.  
+    *Keywords: Decision Support, Agentic Synthesis, Predictive Coding.*
 
 ### Interconnections and Roadmap
 - **Threads**: Evaluation → Governance → Creativity → Analysis → Application → Synthesis.
