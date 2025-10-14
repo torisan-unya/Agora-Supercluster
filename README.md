@@ -85,8 +85,8 @@ Seeking co-creators for AI-human symbiosis.
    - **[NVDA/NVDU Portfolio Analysis](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/04_nvda_analysis.md)**: Real-time financial predictions using agentic AI.
    - **[Policy Analysis Prompt](https://github.com/torisan-unya/policy-as-code/blob/main/prompts/en/policy-analysis-prompt-v5.6-en.md)**: Multi-faceted policy impact assessment (e.g., AI innovation policies).
    - **[Employment Analysis Prompt](https://github.com/torisan-unya/GAAF/blob/main/prompts/en/02_employment_analysis.md)**: Flash estimates for U.S. labor metrics like NFP.
-   - **[Draco with X-CII](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-x-cii-en.md)**: Safety-focused multilingual analysis with Expected Loss metrics (e.g., policy impacts on trade).
-   - **[Draco with GAAF](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-gaaf-en.md)**: Dynamic agentic synthesis for general domains (e.g., AI effects on employment).
+   - **[Draco with X-CII](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-x-cii-en.md)**: **The Guardian for critical decisions.** Use it to quantify risks and ensure reliability in high-stakes domains (e.g., financial auditing, policy impact analysis).
+   - **[Draco with GAAF](https://github.com/torisan-unya/DRACO/blob/main/prompts/en/draco-agenttech-synthesis-framework-gaaf-en.md)**: **The Explorer for dynamic landscapes.** Use it to navigate complexity and generate strategic insights for ambiguous topics (e.g., future market trends, AI's societal impact).
    
    Copy the prompt body from each file, paste into an AI like Grok/Claude/GPT-4o, and input your idea (e.g., "SF Adventure, Mars landing, 5000 words simple"). Iterate via Blueprint Mode for refinements.
 4. **Explore Theoretical Foundations**: For deeper dives, use these curated entry points:
