@@ -17,14 +17,6 @@ Ideal for researchers, policymakers, writers, and explorers.
 The diagram illustrates interconnections among core repositories.
 
 ```mermaid
-はい、承知いたしました。
-`Core Repositories`セクションの改定内容に合わせて、Mermaid図の各リポジトリの役割表記を修正しました。
-
-これにより、テキストの説明と図の表現が完全に一致し、プロジェクト全体の物語性が視覚的にも強化されます。
-
----
-
-```mermaid
 graph TD
     A("<b>Agora-Supercluster</b><br><i>Central Hub</i>")
     B["<a href='https://github.com/torisan-unya/awesome-hac-framework'>awesome-hac-framework</a><br><i>The Compass & Ruler</i>"]
